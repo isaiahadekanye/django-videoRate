@@ -25,7 +25,9 @@ SECRET_KEY = '(p7f%1@yauy$30ppiw#aehfe(ysjel2knem9ko!u&2w0w5hd15'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'limitless-wave-75914.herokuapp.com'
+]
 
 
 # Application definition
